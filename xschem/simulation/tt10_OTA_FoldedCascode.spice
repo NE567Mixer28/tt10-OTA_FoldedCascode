@@ -1,5 +1,5 @@
-** sch_path: /home/ttuser/tt10-FoldedCascode/xschem/tt10_FoldedCascode.sch
-**.subckt tt10_FoldedCascode VDD GND IN+ IN- OUT
+** sch_path: /home/ttuser/tt10-OTA_FoldedCascode/xschem/tt10_OTA_FoldedCascode.sch
+**.subckt tt10_OTAFoldedCascode VDD GND IN+ IN- OUT
 *.iopin VDD
 *.iopin GND
 *.ipin IN+
